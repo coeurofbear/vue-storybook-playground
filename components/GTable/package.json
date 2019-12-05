@@ -1,0 +1,10 @@
+{
+  "name": "@coeurofbear/g-table",
+  "version": "0.0.0",
+  "publishConfig": {
+    "access": "public"
+  },
+  "dependencies": {
+    "@coeurofbear/g-table-row": "^0.0.1"
+  }
+}
